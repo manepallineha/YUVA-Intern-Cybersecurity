@@ -23,7 +23,3 @@ This task focuses on monitoring security events, identifying unusual activities,
 This task focuses on evaluating cybersecurity compliance requirements and providing strategic recommendations to improve the security of digital services.
 
 
-## Reports
-
-- [Week 1 Cyber Threat Risk Assessment Report](Week1_Cyber_Threat_Risk_Assessment_Report.docx)
-- [Week 2 Incident Response Plan](Week2_Incident_Response_Plan_Report.docx)
