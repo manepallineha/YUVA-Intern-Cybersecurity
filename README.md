@@ -26,7 +26,7 @@ This task focuses on evaluating cybersecurity compliance requirements and provid
 
 ```text
 Week-1/
-  [Download Week 1 Report](Week1_Cyber_Threat_Risk_Assessment_Report.docx)
+  - [Download the Week 1 Report](Week1_Cyber_Threat_Risk_Assessment_Report.docx)
 
 Week-2/
   Week_2_Incident_Response_Plan.docx
