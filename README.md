@@ -1,22 +1,38 @@
-# Week 1: Cyber Threat Risk Assessment and Threat Modeling
+# Yuva Intern Cyber Security Analyst Tasks
 
-This repository contains my Week 1 task submission for the Yuva Intern Cyber Security Analyst - E-Governance & Digital Services internship.
+This repository contains my task submissions for the Yuva Intern Cyber Security Analyst - E-Governance & Digital Services internship.
 
-## Task Objective
+The internship focuses on cybersecurity practices for digital public services, including risk assessment, incident response, security monitoring, and compliance.
 
-The objective of this task is to conduct a cyber threat risk assessment and develop a threat model for a hypothetical e-governance digital service environment.
+## Tasks
 
-## Report Contents
+### Week 1: Cyber Threat Risk Assessment and Threat Modeling
 
-- Identification of cyber threats and vulnerabilities
-- STRIDE-based threat modeling
-- Risk ranking based on likelihood and impact
-- Risk mitigation strategies and security controls
-- Incident response and security recommendations
-- Conclusion and references
+This task focuses on identifying cyber threats, vulnerabilities, and risks in a hypothetical e-governance digital service. It includes threat modeling, risk ranking, and recommended mitigation strategies.
 
-## Deliverable
+### Week 2: Incident Response Plan Development for Digital Services
 
-- [Download the Week 1 Report](Week_1_Cyber_Threat_Risk_Assessment_Report.docx)
-  
-This report is prepared for academic internship submission purposes.
+This task focuses on creating an incident response plan for digital services. It covers incident identification, containment, investigation, recovery, communication, and lessons learned.
+
+### Week 3: Security Monitoring, Anomaly Detection and Simulation
+
+This task focuses on monitoring security events, identifying unusual activities, and simulating cybersecurity incidents to understand detection and response processes.
+
+### Week 4: Compliance Evaluation and Strategic Recommendations for Digital Security
+
+This task focuses on evaluating cybersecurity compliance requirements and providing strategic recommendations to improve the security of digital services.
+
+## Repository Structure
+
+```text
+Week-1/
+  [Download Week 1 Report](Week1_Cyber_Threat_Risk_Assessment_Report.docx)
+
+Week-2/
+  Week_2_Incident_Response_Plan.docx
+
+Week-3/
+  Week_3_Security_Monitoring_Anomaly_Detection_Simulation.docx
+
+Week-4/
+  Week_4_Compliance_Evaluation_Strategic_Recommendations.docx
