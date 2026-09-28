@@ -22,17 +22,8 @@ This task focuses on monitoring security events, identifying unusual activities,
 
 This task focuses on evaluating cybersecurity compliance requirements and providing strategic recommendations to improve the security of digital services.
 
-## Repository Structure
 
-```text
-Week-1/
-  - [Download the Week 1 Report](Week1_Cyber_Threat_Risk_Assessment_Report.docx)
+## Reports
 
-Week-2/
-  Week_2_Incident_Response_Plan.docx
-
-Week-3/
-  Week_3_Security_Monitoring_Anomaly_Detection_Simulation.docx
-
-Week-4/
-  Week_4_Compliance_Evaluation_Strategic_Recommendations.docx
+- [Week 1 Cyber Threat Risk Assessment Report](Week1_Cyber_Threat_Risk_Assessment_Report.docx)
+- [Week 2 Incident Response Plan](Week2_Incident_Response_Plan_Report.docx)
